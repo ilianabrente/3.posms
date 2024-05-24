@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeworkOrganizer</string>
+    <string-array name="task_status_array">
+        <item>sākts</item>
+        <item>pabeigts</item>
+        <item>atlikts</item>
+    </string-array>
+</resources>
